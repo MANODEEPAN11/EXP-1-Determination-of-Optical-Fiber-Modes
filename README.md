@@ -63,6 +63,8 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
-![out](exp1.jpeg)
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/741131bc-2b13-4434-8ad6-e0c08ec54a08" />
+
 ## Result
-Thus, the mode characteristics of fiber optic cable and observe the lower order Linearly Polarized (LP) modes is done successfully
+The mode characteristics and lower order Linearly Polarized (LP) modes were studied successfully.
+
